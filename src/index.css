@@ -1,0 +1,40 @@
+.rc-tree-select-custom {
+    width: 100%;
+    font-size: 1rem;
+}
+
+.rc-tree-select-custom > .rc-tree-select-selector {
+    border: solid 1px #d3d3d3 !important;
+    border-radius: 8px;
+    min-height: 30px;
+}
+
+.rc-tree-select-selection-overflow {
+    align-items: center;
+    margin-left: 0.2rem;
+}
+
+.rc-tree-select-selection-overflow-item{
+    margin-right: 0.2rem;
+}
+
+.rc-tree-select-selection-item {
+    background: #ececec !important;
+    padding: 0.1rem 0.5rem !important;
+    border-radius: 6px !important;
+}
+
+.rc-tree-select-selection-item-content {
+    font-size: 0.9rem;
+}
+
+.rc-tree-select-selection-item-remove {
+    margin-left: 0.5rem;
+    cursor: pointer;
+}
+
+.rc-tree-select-dropdown {
+    border: solid 1px #d3d3d3 !important;
+    min-height: 0;
+    border-radius: 8px;
+}
